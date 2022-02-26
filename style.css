@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    color: #2225bd;
+}
+h2 {
+    color: #2225bd;
+}
+footer {
+    background-color: lightpink;
+    padding: 10px;
+}
+footer p {
+background-color: white;
+padding: 7px;
+}
+nav {
+    font-size: 20px;
+    background-color: green;
+    padding: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+.icons {
+    background-color:#98FB98 ;
+}
+p img {
+    padding: 10px;
+}
+.contacts {
+    border: 3px solid #2225bd;
+    padding: 10px;
+    text-decoration: none;
+}
+.logo {
+    border: 3px solid #2225bd;
+    padding: 10px;
+    text-decoration: none;
+}
